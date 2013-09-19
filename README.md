@@ -15,4 +15,4 @@ $.wtfstockphotos('.swappable-image')
 
 `limit` (default 30) - limit number of images fetched from reddit. will make initial request faster.
 
-  $.wtfstockphotos('.swappable-image', { limit: 10 })
+    $.wtfstockphotos('.swappable-image', { limit: 10 })
